@@ -6,7 +6,7 @@ var images = []
 chrome.browserAction.setBadgeText({text: (images.length).toString()});
 
 
-chrome.contextMenus.removeAll();
+
 chrome.contextMenus.create({
   id: "some-command",
   title: "Open Annotation Tool with Screenshots",
@@ -67,16 +67,11 @@ chrome.browserAction.onClicked.addListener(() => {
 
       images.push(screenshotUrl)
 
-      
-      
+  
 
       //We open the tab URL by using the chrome tabs create method and passing it the
       // URL that we just created and we save the tab id that we get from this method
       // after the tab is created in the targetId variable.
-      
-
-
-
     });
   });
 });
