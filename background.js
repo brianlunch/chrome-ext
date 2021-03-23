@@ -65,7 +65,15 @@ chrome.browserAction.onClicked.addListener(() => {
       console.log(screenshotUrl)
       let targetId = null;
 
-      images.push(screenshotUrl)
+      var time = new Date()
+      time = time.toString();
+
+      var imgObj={
+        img:screenshotUrl,
+        url: url,
+        time: time
+      }
+      images.push(imgObj)
 
   
 
