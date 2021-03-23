@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gdpreportReact/static/css/main.04226e57.chunk.css",
-    "main.js": "/gdpreportReact/static/js/main.7b5f7e70.chunk.js",
-    "main.js.map": "/gdpreportReact/static/js/main.7b5f7e70.chunk.js.map",
+    "main.js": "/gdpreportReact/static/js/main.31739a24.chunk.js",
+    "main.js.map": "/gdpreportReact/static/js/main.31739a24.chunk.js.map",
     "runtime-main.js": "/gdpreportReact/static/js/runtime-main.72575aba.js",
     "runtime-main.js.map": "/gdpreportReact/static/js/runtime-main.72575aba.js.map",
     "static/css/2.1a02f21c.chunk.css": "/gdpreportReact/static/css/2.1a02f21c.chunk.css",
@@ -14,13 +14,14 @@
     "static/css/2.1a02f21c.chunk.css.map": "/gdpreportReact/static/css/2.1a02f21c.chunk.css.map",
     "static/css/main.04226e57.chunk.css.map": "/gdpreportReact/static/css/main.04226e57.chunk.css.map",
     "static/js/2.6280999b.chunk.js.LICENSE.txt": "/gdpreportReact/static/js/2.6280999b.chunk.js.LICENSE.txt",
-    "static/media/IrishTimes.537ec91e.PNG": "/gdpreportReact/static/media/IrishTimes.537ec91e.PNG"
+    "static/media/IrishTimes.537ec91e.PNG": "/gdpreportReact/static/media/IrishTimes.537ec91e.PNG",
+    "static/media/consent.70ce054d.png": "/gdpreportReact/static/media/consent.70ce054d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.72575aba.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.6280999b.chunk.js",
     "static/css/main.04226e57.chunk.css",
-    "static/js/main.7b5f7e70.chunk.js"
+    "static/js/main.31739a24.chunk.js"
   ]
 }
